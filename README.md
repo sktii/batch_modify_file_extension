@@ -1,1 +1,2 @@
 # batch_modify_file_extension
+指定資料夾後 會將裡面的檔案副檔名全改為指定的副檔名
