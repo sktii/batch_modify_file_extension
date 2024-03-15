@@ -16,7 +16,7 @@ def process_files_in_folder(folder_path):
                 old_path = os.path.join(folder_path, filename)  
                 new_path = os.path.join(folder_path, new_filename) 
                 os.rename(old_path, new_path)
-                print(f"已將 '{filename}' 修改為 '{new_filename}'")
+                print(f"已將 '{filename}' 修改為 '{new_filename}'") 
 
 if __name__ == "__main__":
     folder_path = r"C:\Users\ASUS\Desktop\test"
